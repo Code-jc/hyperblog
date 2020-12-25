@@ -1,15 +1,1 @@
-This is my story
-
-Im jk and I am 35 years old
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-this is bullshit
-Hoy hablaremos de su vida.
-=======
-Mañana nos enfocaremos en su vida aboral 
->>>>>>> d524d37... 
-Reemplazo de una version por otra de la historia
-=======
-Mañana nos enfocaremos en su vida aboral 
->>>>>>> d524d37... Reemplazo de una version por otra de la historia
+This is a test file
